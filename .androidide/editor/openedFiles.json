@@ -1,0 +1,65 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/IrsyadJava/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 52,
+          "index": 1192,
+          "line": 28
+        },
+        "start": {
+          "column": 52,
+          "index": 1192,
+          "line": 28
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/IrsyadJava/app/src/main/java/com/example/irsyadjava/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 33,
+          "index": 1157,
+          "line": 39
+        },
+        "start": {
+          "column": 33,
+          "index": 1157,
+          "line": 39
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/IrsyadJava/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 1002,
+          "line": 48
+        },
+        "start": {
+          "column": 4,
+          "index": 1002,
+          "line": 48
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/IrsyadJava/settings.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 39,
+          "index": 296,
+          "line": 14
+        },
+        "start": {
+          "column": 39,
+          "index": 296,
+          "line": 14
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/IrsyadJava/app/src/main/res/layout/activity_main.xml"
+}
